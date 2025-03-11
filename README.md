@@ -1,6 +1,6 @@
 # Hybrid-Collaborative Augmentation and Contrastive Sample Adaptive-Differential Awareness for Robust Attributed Graph Clustering
 An official source code for paper "Hybrid-Collaborative Augmentation and Contrastive Sample Adaptive-Differential Awareness for Robust Attributed Graph Clustering". Any communications or issues are welcomed. Please contact zhaotianxiang0474@163.com.<br>
-The authors of the paper: `Tianxiang Zhao`, `Youqing Wang`, `Mingliang Cui`, `Junbin Gao`, `Jipeng Guo` (Corresponding author).<br>
+The authors of the paper: `Tianxiang Zhao`, `Youqing Wang`, `Mingliang Cui`, `Jiapu Wang`, `Junbin Gao`, `Jipeng Guo` (Corresponding author).<br>
 ### Overview
 We propose a novel **R**obust **A**ttributed **G**raph **C**lustering (**RAGC**), incorporating **H**ybrid-**C**ollaborative **A**ugmentation (**HCA**) and **C**ontrastive **S**ample **A**daptive-**D**ifferential **A**wareness (**CSADA**). The overall framework of **RAGC** is illustrated in Fig. 1.<br>
 
