@@ -17,3 +17,16 @@ Figure 1: Illustration of the proposed "Hybrid-Collaborative Augmentation and Co
 ```
 python train.py
 ```
+
+### Citation
+
+If you find this repository helpful, please cite our papers.
+
+```
+@inproceedings{zhao2025hybrid,
+  title={Hybrid-Collaborative Augmentation and Contrastive Sample Adaptive-Differential Awareness for Robust Attributed Graph Clustering},
+  author={Zhao, Tianxiang and Wang, Youqing and Wang, Jinlu and Wang, Jiapu and Cui, Mingliang and Gao, Junbin and Guo, Jipeng},
+  booktitle={NeurIPS},
+  year={2025}
+}
+```
