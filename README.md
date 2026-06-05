@@ -26,6 +26,7 @@ If you find this repository helpful, please cite our papers.
 @inproceedings{zhao2025hybrid,
   title={Hybrid-Collaborative Augmentation and Contrastive Sample Adaptive-Differential Awareness for Robust Attributed Graph Clustering},
   author={Zhao, Tianxiang and Wang, Youqing and Wang, Jinlu and Wang, Jiapu and Cui, Mingliang and Gao, Junbin and Guo, Jipeng},
+  pages={115969--115994},
   booktitle={NeurIPS},
   year={2025}
 }
